@@ -1,0 +1,7 @@
+*.py linguist-detectable=true
+
+*.md linguist-documentation
+/docs/* linguist-documentation
+
+*.csv linguist-detectable=false
+*.json linguist-detectable=false
